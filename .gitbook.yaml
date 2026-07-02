@@ -1,4 +1,5 @@
 root: ./
+title: "Birdeye MCP"
 
 structure:
   readme: introduction.md
