@@ -11,31 +11,19 @@ You never need to copy API keys or manage tokens manually.
 
 ## How It Works
 
-<Steps>
-  <Step title="Client discovers the server">
-    Your AI client connects to `https://mcp.birdeye.com/mcp` and discovers the OAuth configuration automatically.
-  </Step>
-  <Step title="Dynamic client registration">
-    The client registers itself with Birdeye. This happens automatically — no manual setup required.
-  </Step>
-  <Step title="Browser authorization">
-    You are redirected to a Birdeye login page to sign in and grant access.
-  </Step>
-  <Step title="Token issued">
-    After approval, an access token is issued to your AI client. All subsequent MCP requests use this token.
-  </Step>
-  <Step title="Business context resolved">
-    Every tool call is scoped to the Birdeye business associated with your account. Enterprise accounts with multiple locations automatically have access to all child location data.
-  </Step>
-</Steps>
+1. **Client discovers the server** — Your AI client connects to `https://mcp.birdeye.com/mcp` and discovers the OAuth configuration automatically.
+2. **Dynamic client registration** — The client registers itself with Birdeye. This happens automatically — no manual setup required.
+3. **Browser authorization** — You are redirected to a Birdeye login page to sign in and grant access.
+4. **Token issued** — After approval, an access token is issued to your AI client. All subsequent MCP requests use this token.
+5. **Business context resolved** — Every tool call is scoped to the Birdeye business associated with your account. Enterprise accounts with multiple locations automatically have access to all child location data.
 
 ## Authorized Redirect URIs
 
 The ChatGPT and Claude AI clients are pre-authorized for OAuth redirects.
 
-<Warning>
-    If you are using an MCP client other than ChatGPT or Claude, you must register it with Birdeye by providing your redirect URI to Birdeye Support.
-</Warning>
+{% hint style="warning" %}
+If you are using an MCP client other than ChatGPT or Claude, you must register it with Birdeye by providing your redirect URI to Birdeye Support.
+{% endhint %}
 
 ## Scopes
 

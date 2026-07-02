@@ -39,5 +39,5 @@ What review site aliases are configured for my business?
 
 ## Notes
 
-- Use these alias values when filtering tools like [`get_reviews`](/tools/reviews/get-reviews) by `sources`.
-- For full source details (URL, status, ID), use [`get_all_aggregation_sources`](/tools/aggregation/get-all-aggregation-sources).
+- Use these alias values when filtering tools like [get\_reviews](../reviews/get-reviews.md) by `sources`.
+- For full source details (URL, status, ID), use [get\_all\_aggregation\_sources](get-all-aggregation-sources.md).

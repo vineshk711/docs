@@ -58,4 +58,4 @@ Show me Gemini citations for the General Dentistry theme from the last run.
 ## Notes
 
 - `brandPresent: true` means your brand name appears in the cited content — a positive signal.
-- Use dates from [`get_search_ai_available_runs`](/tools/search-ai/get-search-ai-available-runs) to ensure your date range covers a completed run.
+- Use dates from [get\_search\_ai\_available\_runs](get-search-ai-available-runs.md) to ensure your date range covers a completed run.

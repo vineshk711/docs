@@ -41,5 +41,5 @@ List all my locations with their IDs.
 
 ## Notes
 
-- Call this tool first when using any location-level tool such as [`get_listing`](/tools/listings/get-listing) or [`get_listing_location_status_report`](/tools/listings/get-listing-location-status-report).
+- Call this tool first when using any location-level tool such as [get\_listing](../listings/get-listing.md) or [get\_listing\_location\_status\_report](../listings/get-listing-location-status-report.md).
 - Enterprise accounts may have hundreds of child locations. The full list is returned.

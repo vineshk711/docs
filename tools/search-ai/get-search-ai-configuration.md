@@ -11,9 +11,9 @@ get_search_ai_configuration
 
 Returns the Search AI configuration for the authenticated business, including all monitored themes and the exact prompt text used for each AI engine query.
 
-<Note>
-  Always display the complete list of prompts verbatim. Do not summarize or truncate prompts in your response — the exact wording matters.
-</Note>
+{% hint style="info" %}
+Always display the complete list of prompts verbatim. Do not summarize or truncate prompts in your response — the exact wording matters.
+{% endhint %}
 
 ## Parameters
 

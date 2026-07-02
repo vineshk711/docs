@@ -5,32 +5,14 @@ description: "Birdeye MCP provides a variety of read-only tools across different
 
 ## Tool Categories
 
-<CardGroup cols={2}>
-  <Card title="Reviews" icon="star" href="/tools/reviews/overview">
-    Review trends, rating overviews, and individual review data
-  </Card>
-  <Card title="Business" icon="building" href="/tools/business/get-business-info">
-    Business profile and child location discovery
-  </Card>
-  <Card title="Surveys" icon="clipboard-list" href="/tools/surveys/get-all-surveys">
-    Survey catalog and paginated response data
-  </Card>
-  <Card title="Listings" icon="map-pin" href="/tools/listings/overview">
-    Listing profiles, status reports, insights, and product listings
-  </Card>
-  <Card title="Search AI" icon="magnifying-glass" href="/tools/search-ai/overview">
-    AI engine citations, business visibility, accuracy, and SWOT reports
-  </Card>
-  <Card title="Social" icon="share-nodes" href="/tools/social/track-social-post">
-    Social performance reports accross multiple channels like Instagram, Facebook, LinkedIn etc.
-  </Card>
-  <Card title="Ticketing" icon="ticket" href="/tools/ticketing/get-all-ticket-data">
-    Ticket retrieval with filtering and pagination
-  </Card>
-  <Card title="Aggregation" icon="layer-group" href="/tools/aggregation/get-all-aggregation-sources">
-    Review source monitoring and site alias lookup
-  </Card>
-</CardGroup>
+- [Reviews](reviews/overview.md) — Review trends, rating overviews, and individual review data
+- [Business](business/get-business-info.md) — Business profile and child location discovery
+- [Surveys](surveys/get-all-surveys.md) — Survey catalog and paginated response data
+- [Listings](listings/overview.md) — Listing profiles, status reports, insights, and product listings
+- [Search AI](search-ai/overview.md) — AI engine citations, business visibility, accuracy, and SWOT reports
+- [Social](social/track-social-post.md) — Social performance reports across multiple channels like Instagram, Facebook, LinkedIn etc.
+- [Ticketing](ticketing/get-all-ticket-data.md) — Ticket retrieval with filtering and pagination
+- [Aggregation](aggregation/get-all-aggregation-sources.md) — Review source monitoring and site alias lookup
 
 ## All Tools
 

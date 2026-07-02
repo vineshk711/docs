@@ -11,9 +11,9 @@ get_listing
 
 Returns the complete listing profile for a specific child location. This includes business information, operating hours, special hours, languages, keywords, products, and the status of the listing on each connected platform (Google, Facebook, Bing, Apple, etc.).
 
-<Warning>
-  This is a **location-level tool**. You must provide a `locationId` from [`get_child_locations`](/tools/business/get-child-locations).
-</Warning>
+{% hint style="warning" %}
+This is a **location-level tool**. You must provide a `locationId` from [get\_child\_locations](../business/get-child-locations.md).
+{% endhint %}
 
 ## Parameters
 

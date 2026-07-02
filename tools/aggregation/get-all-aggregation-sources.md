@@ -65,4 +65,4 @@ List all my aggregation sources and their current status.
 ## Notes
 
 - `sourceAlias` values (e.g., `"google"`, `"direct_feedback"`) can be used as filter values in other tools that accept `sourceAliases` parameters.
-- Use [`get_review_site_aliases`](/tools/aggregation/get-review-site-aliases) to get a simple list of all configured aliases.
+- Use [get\_review\_site\_aliases](get-review-site-aliases.md) to get a simple list of all configured aliases.

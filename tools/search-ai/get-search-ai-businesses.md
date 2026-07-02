@@ -49,4 +49,4 @@ Each business entry includes:
 
 ## Notes
 
-- Compare the returned business data with your actual business info to identify accuracy issues — use [`get_search_ai_accuracy_report`](/tools/search-ai/get-search-ai-accuracy-report) for a structured accuracy analysis.
+- Compare the returned business data with your actual business info to identify accuracy issues — use [get\_search\_ai\_accuracy\_report](get-search-ai-accuracy-report.md) for a structured accuracy analysis.

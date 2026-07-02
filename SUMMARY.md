@@ -1,0 +1,42 @@
+# Birdeye MCP Documentation
+
+## Get Started
+
+* [Introduction](introduction.md)
+* [Quickstart](quickstart.md)
+* [Authentication](authentication.md)
+
+## Tools Reference
+
+* [Tools Overview](tools/overview.md)
+* [Reviews](tools/reviews/overview.md)
+  * [Review and Rating Overview](tools/reviews/review-and-rating-overview.md)
+  * [Get Reviews](tools/reviews/get-reviews.md)
+  * [Get Review Summary](tools/reviews/get-review-summary.md)
+* [Business](tools/business/get-business-info.md)
+  * [Get Business Info](tools/business/get-business-info.md)
+  * [Get Child Locations](tools/business/get-child-locations.md)
+* [Surveys](tools/surveys/get-all-surveys.md)
+  * [Get All Surveys](tools/surveys/get-all-surveys.md)
+  * [Get Survey Responses](tools/surveys/get-survey-responses.md)
+* [Listings](tools/listings/overview.md)
+  * [Get Listing](tools/listings/get-listing.md)
+  * [Get Listing Location Status Report](tools/listings/get-listing-location-status-report.md)
+  * [Get Listing Insights](tools/listings/get-listing-insights.md)
+  * [Get Listing Category List](tools/listings/get-listing-category-list.md)
+  * [Get Product Listing List](tools/listings/get-product-listing-list.md)
+* [Search AI](tools/search-ai/overview.md)
+  * [Get Search AI Configuration](tools/search-ai/get-search-ai-configuration.md)
+  * [Get Search AI Available Runs](tools/search-ai/get-search-ai-available-runs.md)
+  * [Get Search AI Citations](tools/search-ai/get-search-ai-citations.md)
+  * [Get Search AI Businesses](tools/search-ai/get-search-ai-businesses.md)
+  * [Get Search AI Accuracy Report](tools/search-ai/get-search-ai-accuracy-report.md)
+  * [Get Search AI Sentiment Report](tools/search-ai/get-search-ai-sentiment-report.md)
+* [Social](tools/social/track-social-post.md)
+  * [Track Social Post](tools/social/track-social-post.md)
+  * [Get Social Performance Report](tools/social/get-social-open-url-performance-report.md)
+* [Ticketing](tools/ticketing/get-all-ticket-data.md)
+  * [Get All Ticket Data](tools/ticketing/get-all-ticket-data.md)
+* [Aggregation](tools/aggregation/get-all-aggregation-sources.md)
+  * [Get All Aggregation Sources](tools/aggregation/get-all-aggregation-sources.md)
+  * [Get Review Site Aliases](tools/aggregation/get-review-site-aliases.md)

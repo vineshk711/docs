@@ -11,9 +11,9 @@ get_listing_location_status_report
 
 Returns a breakdown of listing sync status across all connected platforms for a specific location. Shows counts and percentages for each status category, plus per-site status details.
 
-<Warning>
-  This is a **location-level tool**. You must provide a `locationId` from [`get_child_locations`](/tools/business/get-child-locations).
-</Warning>
+{% hint style="warning" %}
+This is a **location-level tool**. You must provide a `locationId` from [get\_child\_locations](../business/get-child-locations.md).
+{% endhint %}
 
 ## Parameters
 

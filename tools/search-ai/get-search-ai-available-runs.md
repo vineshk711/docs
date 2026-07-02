@@ -48,4 +48,4 @@ Show me all available Search AI run dates.
 
 ## Notes
 
-- Use run dates from this tool as `startDate`/`endDate` values when calling [`get_search_ai_citations`](/tools/search-ai/get-search-ai-citations), [`get_search_ai_accuracy_report`](/tools/search-ai/get-search-ai-accuracy-report), and other Search AI report tools.
+- Use run dates from this tool as `startDate`/`endDate` values when calling [get\_search\_ai\_citations](get-search-ai-citations.md), [get\_search\_ai\_accuracy\_report](get-search-ai-accuracy-report.md), and other Search AI report tools.
